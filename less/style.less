@@ -63,6 +63,13 @@
 
 //=========================================================================================================
 
+/* Define the "system" font family */
+@font-face {
+  font-family: system;
+  font-style: normal;
+  font-weight: 300;
+  src: local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+}
 
 html,
 body {
@@ -70,10 +77,21 @@ body {
   height: 100%;
 }
 body {
+  font-family: "system";
   background: #3C5A99;
   color: white;
   margin: 0;
   padding: 0;
+}
+p,
+h1 {
+  margin: 0 0 .5em 0;
+  padding: 0;
+}
+h1 {
+  font-size: 300%;
+  text-transform: uppercase;
+  font-weight: 700;
 }
 article {
   display: block;
@@ -84,9 +102,34 @@ article {
   height: 98vh;
   width: 100%;
   padding-top: 2em;
+
+  @media screen and ( min-aspect-ratio: 8/7 ) {
+
+    display:flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    justify-content: space-between;
+
+    div {
+      box-sizing: border-box;     
+      flex-grow: 1;
+      padding: 2em 4em;
+    }
+    
+    p,
+    h1 {
+      width: 25vw;
+      max-width: 25vw;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    h1 {
+      padding-top: 18vw;
+    }
+    
+  }
   
-  h1 {
-    .visuallyhidden();
+  @media screen and ( max-aspect-ratio: 8/7 ) {
   }
 
   svg {
