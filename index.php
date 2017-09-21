@@ -36,7 +36,7 @@
 <meta name="twitter:domain" content="satansboek.nl" />
 <meta name="twitter:image" content="https://satansboek.nl/images/satansboek.png" />
 <meta name="twitter:site" content="@paulvanbuuren" />
-<meta name="twitter:title" content="Nee, nee, nee" />
+<meta name="twitter:title" content="Satansboek - we zouden allemaal beter een andere hobby kunnen kiezen" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta property="og:description" content="Iedereen weet dat Facebook de satanische satan is" />
 <meta property="og:image:height" content="800" />
