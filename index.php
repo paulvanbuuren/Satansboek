@@ -9,7 +9,7 @@
 <html lang="nl">
 <head lang="nl-NL" xml:lang="nl-NL">
 <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
-<link href="/satansboek-favicon.png" rel="apple-touch-icon">
+<link href="/images/satansboek-favicon.png" rel="apple-touch-icon">
 <link href="https://plus.google.com/u/0/+PaulvanBuuren" rel="publisher">
 <meta charset="utf-8">
 <meta content="" name="author">
@@ -34,19 +34,19 @@
 <meta name="twitter:creator" content="@paulvanbuuren" />
 <meta name="twitter:description" content="Iedereen weet dat Facebook de satanische satan is" />
 <meta name="twitter:domain" content="satansboek.nl" />
-<meta name="twitter:image" content="http://satansboek.nerdpress.nl/satansboek.png" />
+<meta name="twitter:image" content="https://satansboek.nl/images/satansboek.png" />
 <meta name="twitter:site" content="@paulvanbuuren" />
 <meta name="twitter:title" content="Nee, nee, nee" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta property="og:description" content="Iedereen weet dat Facebook de satanische satan is" />
 <meta property="og:image:height" content="800" />
 <meta property="og:image:width" content="800" />
-<meta property="og:image" content="http://satansboek.nerdpress.nl/satansboek.png" />
+<meta property="og:image" content="https://satansboek.nl/images/satansboek.png" />
 <meta property="og:locale" content="nl_NL" />
 <meta property="og:site_name" content="Satansboek" />
 <meta property="og:title" content="Satansboek" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://satansboek.nerdpress.nl/" />
+<meta property="og:url" content="https://satansboek.nl/" />
 
 	<title>satansboek.nl - WBVB Rotterdam</title>
 <?php
@@ -63,7 +63,7 @@
 
 <svg width="190px" height="252px" viewBox="0 0 190 252" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <title>Satansboek-logo</title>
-  <desc>Hier staat het Facebook-logo, licht gewijzigd door de toevoeging van twee duivelshoorntjes en een duivelsstaart</desc>
+  <desc>Hier staat het Facebook-logo, licht aangepast door de toevoeging van twee duivelshoorntjes en een duivelsstaart</desc>
   <defs></defs>
   <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
   <g id="satansboek" transform="translate(-36.000000, -16.000000)" fill-rule="nonzero" fill="#FFFFFF">
