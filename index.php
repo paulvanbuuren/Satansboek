@@ -70,9 +70,9 @@ ob_start("sanitize_output");
 <meta property="og:url" content="https://satansboek.nl/" />
 <title>satansboek.nl - WBVB Rotterdam</title>
 <?php
-    echo '<style type="text/css">';
-    include( STYLING_STYLESHEET );
-    echo '</style>';
+  echo '<style type="text/css">';
+  include( STYLING_STYLESHEET );
+  echo '</style>';
 ?>
 </head>
 
@@ -80,7 +80,12 @@ ob_start("sanitize_output");
 <article>
   <div>
     <h1>Satansboek</h1>
-    <p>Omdat Facebook de satanische satan is</p>
+    <p>Omdat Facebook de satanische satan is<br>
+    O ja, <a href="https://wbvb.nl/99-days-of-freedom/">daar schreef ik in 2014 al iets over</a>.</p>
+<p>Verder:</p>
+<ul>
+  <li><a href="https://thenextweb.com/contributors/2017/08/11/big-brother-name-facebook/">Big brother is here, and his name is Facebook</a></li></ul>    
+    
   </div>
   <div>
     <svg width="190px" height="252px" viewBox="0 0 190 252" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
