@@ -164,11 +164,20 @@ article {
     }
     
     p,
+    ul,
     h1 {
       width: 25vw;
       max-width: 25vw;
       margin-left: auto;
       margin-right: auto;
+    }
+    ul {
+      text-align: left;
+      li {
+        & + li {
+          margin-top: .5em;
+        }
+      }
     }
     h1 {
       padding-top: 18vw;
