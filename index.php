@@ -81,16 +81,13 @@ ob_start("sanitize_output");
   <div>
     <h1>Satansboek</h1>
     <p>Omdat Facebook de satanische satan is<br>
-    O ja, <a href="https://wbvb.nl/99-days-of-freedom/">daar schreef ik in 2014 al iets over</a>.</p>
-<p>Verder:</p>
-<ul>
-
-
-  
-  <li><a href="https://decorrespondent.nl/7483/wat-je-terugkrijgt-als-je-van-facebook-gaat/1029755055868-0decbfa7">Wat je terugkrijgt als je van Facebook gaat (@ de correspondent)</a></li>    
-  
-  <li><a href="https://thenextweb.com/contributors/2017/08/11/big-brother-name-facebook/">Big brother is here, and his name is Facebook</a></li></ul>    
-    
+      O ja, <a href="https://wbvb.nl/99-days-of-freedom/">daar schreef ik in 2014 al iets over</a>.</p>
+    <p>Andere nuttige links:</p>
+    <ul>
+      <li><a href="https://www.marketingfacts.nl/berichten/doet-dat-pijn-stoppen-met-facebook">Doet dat pijn, stoppen met Facebook?<br>(Inge Janse - Marketingfacts)</a></li>
+      <li><a href="https://www.marketingfacts.nl/berichten/doet-dat-pijn-stoppen-met-facebook">Wat je terugkrijgt als je van Facebook gaat<br>(Bregje Hofstede - de Correspondent)</a></li>
+      <li><a href="https://thenextweb.com/contributors/2017/08/11/big-brother-name-facebook/">Big brother is here, and his name is Facebook<br>(Daan Pepijn - The Next Web)</a></li>
+    </ul>
   </div>
   <div>
     <svg width="190px" height="252px" viewBox="0 0 190 252" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
