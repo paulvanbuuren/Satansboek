@@ -86,7 +86,9 @@ ob_start("sanitize_output");
     <ul>
       <li><a href="https://www.marketingfacts.nl/berichten/doet-dat-pijn-stoppen-met-facebook">Doet dat pijn, stoppen met Facebook?<br>(Inge Janse - Marketingfacts)</a></li>
       <li><a href="https://www.marketingfacts.nl/berichten/doet-dat-pijn-stoppen-met-facebook">Wat je terugkrijgt als je van Facebook gaat<br>(Bregje Hofstede - de Correspondent)</a></li>
-      <li><a href="https://thenextweb.com/contributors/2017/08/11/big-brother-name-facebook/">Big brother is here, and his name is Facebook<br>(Daan Pepijn - The Next Web)</a></li>
+      <li><a href="https://thenextweb.com/contributors/2017/08/11/big-brother-name-facebook/" lang="en">Big brother is here, and his name is Facebook<br>(Daan Pepijn - The Next Web)</a></li>
+      <li><a href="https://www.theverge.com/2017/12/11/16761016/former-facebook-exec-ripping-apart-society?utm_content=buffer6eaf1&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer" lang="en">Former Facebook exec says social media is ripping apart society</a></li>
+      
     </ul>
   </div>
   <div>
